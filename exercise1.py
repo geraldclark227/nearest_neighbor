@@ -179,7 +179,7 @@ def my_nearest_neighbor():
     print(classification_report(y_test, y_pred_5))
     print(confusion_matrix(y_test, y_pred_5))
 
-    #Manhattan distance with 9 and 15 nearest Neighbors is optimal.
+    #Manhattan distance with 9 and 15 nearest neighbors is optimal.
 
 
     print("___completed___")
